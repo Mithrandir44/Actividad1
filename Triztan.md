@@ -1,7 +1,7 @@
 # Triztan
 
-- **Carrera:** [Ingieneria en sistemas computacionales]
-- **Cuatrimestre:** [Noveno]
+- **Carrera:** Ingieneria en sistemas computacionales
+- **Cuatrimestre:** Noveno
 - **Usuario:** Mithrandir44
 
 ## Competencias que aprendi
